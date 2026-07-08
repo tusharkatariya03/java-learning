@@ -1,54 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dd30d41-10ef-4327-9525-46ad44f95b92" name="Changes" comment="day 01-Hello world">
+    <list default="true" id="4fae35c0-e715-49dd-97a7-1b65a7c701bd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learning.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;tusharkatariya03&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/tusharkatariya03/java-learning.git&quot;,
-    &quot;accountId&quot;: &quot;1b76d1d6-e290-44f1-ba31-e221e6833c8d&quot;
-  }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 5
-}</component>
-  <component name="ProjectId" id="3GAZfYV5cNuoqix0VprdCaFwvd0" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="3GERqS66tupjxVZNkwH9g4zywQS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.HelloWorld.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.helloworld.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -59,60 +36,12 @@
 }]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9dd30d41-10ef-4327-9525-46ad44f95b92" name="Changes" comment="" />
-      <created>1783416438554</created>
+      <changelist id="4fae35c0-e715-49dd-97a7-1b65a7c701bd" name="Changes" comment="" />
+      <created>1783534935773</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1783416438554</updated>
+      <updated>1783534935773</updated>
     </task>
-    <task id="LOCAL-00001" summary="hello world">
-      <option name="closed" value="true" />
-      <created>1783417215534</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1783417215535</updated>
-    </task>
-    <task id="LOCAL-00002" summary="dat 01 hello world">
-      <option name="closed" value="true" />
-      <created>1783417437081</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1783417437081</updated>
-    </task>
-    <task id="LOCAL-00003" summary="day 01-Hello world">
-      <option name="closed" value="true" />
-      <created>1783417573814</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1783417573814</updated>
-    </task>
-    <task id="LOCAL-00004" summary="day 01-Hello world">
-      <option name="closed" value="true" />
-      <created>1783417706013</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1783417706013</updated>
-    </task>
-    <task id="LOCAL-00005" summary="day 01-Hello world">
-      <option name="closed" value="true" />
-      <created>1783417756738</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1783417756738</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="hello world" />
-    <MESSAGE value="dat 01 hello world" />
-    <MESSAGE value="day 01-hello world" />
-    <MESSAGE value="day 01-Hello world" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 01-Hello world" />
   </component>
 </project>
